@@ -15,12 +15,9 @@ var firstPart =  response.Candidates.FirstOrDefault().Content.Parts.FirstOrDefau
 Console.WriteLine(firstPart.Text);
 ```
 
-## Try out the sample Android app
+## Try out the sample Dotnet console app
 
 This repository contains a sample app demonstrating how the SDK can access and utilize the Gemini model for various use cases.
-
-To try out the sample app you can directly import the project from Android Studio 
-via **File > New > Import Sample** and searching for *Generative AI Sample* or follow these steps below:
 
 1.  Check out this repository.\
 `git clone https://github.com/muniz/generative-ai-dotnet`
@@ -31,7 +28,9 @@ via **File > New > Import Sample** and searching for *Generative AI Sample* or f
 
 1.  Paste your API key into the `YOUR_API_KEY` property in the `Program` file.
 
-1.  Run the app, put a your message in console window and click enter.
+1.  Run the app, put a your text input in console and click enter.
+
+https://github.com/MUN1Z/generative-ai-dotnet/assets/17263249/2e9bc946-de08-4469-a255-eac03005a0e4
 
 ## Documentation
 
