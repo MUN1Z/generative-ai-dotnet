@@ -1,8 +1,8 @@
 # Google AI DotNet SDK
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Discord](https://img.shields.io/discord/507641974421979145?label=Discord)](https://discord.gg/cjxa6bjD)
-[![GitHub stars](https://img.shields.io/github/stars/mun1z/kingnetwork?label=stargazers&logoColor=yellow&style=social)](https://github.com/mun1z/generative-ai-dotnet/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/mun1z/generative-ai-dotne?label=stargazers&logoColor=yellow&style=social)](https://github.com/mun1z/generative-ai-dotnet/stargazers)
 
 For example, with just a few lines of code, you can access Gemini's multimodal capabilities to generate text from text input:
 ```C#
